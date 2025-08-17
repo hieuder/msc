@@ -1,0 +1,5 @@
+test@hotmail.com
+example@outlook.com
+user@gmail.com
+demo@yahoo.com
+sample@live.com
